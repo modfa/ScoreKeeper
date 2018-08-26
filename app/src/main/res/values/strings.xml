@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="slash">/</string>
+    <string name="six_runs">6 Runs</string>
+    <string name="four_runs">4 Runs</string>
+    <string name="three_runs">3 Runs</string>
+    <string name="two_runs">2 Runs</string>
+    <string name="one_run">1 Run</string>
+    <string name="wide_noball">WD/NB</string>
+    <string name="wicket">WKT</string>
+    <string name="reset">Reset</string>
+</resources>
